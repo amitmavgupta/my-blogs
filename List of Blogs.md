@@ -1,6 +1,6 @@
-Curated List of all Blogs and Videos that I have created:
+### Curated List of all Blogs and Videos that I have created:
 
-**Isovalent**
+## Isovalent
 * https://isovalent.com/blog/post/cilium-private-aks-cluster/
 * https://isovalent.com/blog/post/cilium-and-azure-arc/
 * https://isovalent.com/blog/post/cilium-cluster-mesh-in-aks/
@@ -14,7 +14,7 @@ Curated List of all Blogs and Videos that I have created:
 * https://www.youtube.com/watch?v=TrKn0dQTOrw
 * https://www.youtube.com/watch?v=A91iQS0F9Ug
 
-**Medium.com** (Personal-Blogs)
+## Medium.com (Personal-Blogs)
 * https://medium.com/@amitmavgupta/security-groups-for-pods-in-eks-cilium-and-networking-f809cf72fc31
 * https://medium.com/@amitmavgupta/cilium-support-for-eni-prefix-delegation-in-an-eks-cluster-feddf894160b
 * https://medium.com/@amitmavgupta/cilium-evaluating-workload-identities-on-an-aks-cluster-running-azure-cni-powered-by-cilium-14b0d3ab65a1
@@ -29,7 +29,7 @@ Curated List of all Blogs and Videos that I have created:
 * https://medium.com/@amitmavgupta/cilium-installing-azure-cni-powered-by-cilium-using-terraform-part-2-6f20f70fd394
 * https://medium.com/@amitmavgupta/aws-accessing-an-ec2-instance-in-a-private-subnet-using-endpoints-787891e6e788
 
-**Avi Networks**
+## Avi Networks
 * https://avinetworks.com/docs/22.1/cloud-gcp/ 
 * https://avinetworks.com/docs/22.1/ipv6-support/
 * https://avinetworks.com/docs/20.1/avi-deployment-guide-for-google-cloud-platform-gcp/
@@ -48,7 +48,7 @@ Curated List of all Blogs and Videos that I have created:
 * https://avinetworks.com/docs/20.1/integrating-sriov-and-vlan-with-avi-vantage-openstack-no-access-mode-in-dpdk/
 * https://www.youtube.com/watch?v=xWyCxWEkd40 
 
-**Prosimo.io**
+## Prosimo.io
 * https://prosimo.io/videos/elevating-multicloud-transit-to-app-transit-with-prosimo/ 
 * https://grzdemo.grazitti.com/prosimo/tech-deepdive-prosimo-network-transit/
 * https://www.youtube.com/watch?v=pjw1Ty0Ba1s 
