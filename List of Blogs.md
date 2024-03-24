@@ -14,7 +14,7 @@ Curated List of all Blogs and Videos that I have created:
 * https://www.youtube.com/watch?v=TrKn0dQTOrw
 * https://www.youtube.com/watch?v=A91iQS0F9Ug
 
-**Medium.com** (Perosnal-Blogs)
+**Medium.com** (Personal-Blogs)
 * https://medium.com/@amitmavgupta/security-groups-for-pods-in-eks-cilium-and-networking-f809cf72fc31
 * https://medium.com/@amitmavgupta/cilium-support-for-eni-prefix-delegation-in-an-eks-cluster-feddf894160b
 * https://medium.com/@amitmavgupta/cilium-evaluating-workload-identities-on-an-aks-cluster-running-azure-cni-powered-by-cilium-14b0d3ab65a1
