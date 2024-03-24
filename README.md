@@ -1,2 +1,2 @@
 # my-blogs
-Blogs that I have penned
+A curated list of blogs that I have written since last couple of years.
