@@ -15,6 +15,7 @@
 * https://www.youtube.com/watch?v=A91iQS0F9Ug
 
 ## Medium.com (Personal-Blogs)
+* https://medium.com/@amitmavgupta/extending-a-service-using-private-link-from-azure-and-securing-it-with-ciliums-network-policy-ae3248281bbd
 * https://medium.com/@amitmavgupta/security-groups-for-pods-in-eks-cilium-and-networking-f809cf72fc31
 * https://medium.com/@amitmavgupta/cilium-support-for-eni-prefix-delegation-in-an-eks-cluster-feddf894160b
 * https://medium.com/@amitmavgupta/cilium-evaluating-workload-identities-on-an-aks-cluster-running-azure-cni-powered-by-cilium-14b0d3ab65a1
@@ -41,6 +42,7 @@
 * https://avinetworks.com/docs/latest/installing-avi-vantage-for-openstack/
 * https://avinetworks.com/docs/20.1/ref-arch-openstack/
 * https://avinetworks.com/docs/22.1/heat-templates-no-access-openstack-cloud/
+* https://avinetworks.com/docs/22.1/avi-nuage-vsp-deployment/
 * https://avinetworks.com/docs/22.1/ecmp-openstack-contrail/
 * https://avinetworks.com/docs/20.1/configuring-gcp-cloud-network/
 * https://avinetworks.com/docs/20.1/ipv6-openstack/
