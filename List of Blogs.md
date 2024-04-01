@@ -31,12 +31,24 @@
 * https://medium.com/@amitmavgupta/aws-accessing-an-ec2-instance-in-a-private-subnet-using-endpoints-787891e6e788
 
 ## Avi Networks
-* https://avinetworks.com/docs/22.1/cloud-gcp/ 
+* https://avinetworks.com/docs/22.1/cloud-gcp/
 * https://avinetworks.com/docs/22.1/ipv6-support/
 * https://avinetworks.com/docs/20.1/avi-deployment-guide-for-google-cloud-platform-gcp/
+* https://avinetworks.com/docs/22.1/gcp-full-access-deployment-guide/
+* https://avinetworks.com/docs/22.1/cmek-support-for-encrypting-se-disks-for-gcp-cloud/
+* https://avinetworks.com/docs/22.1/gcp-vip-as-internal-load-balancer-and-byoip/
+* https://avinetworks.com/docs/20.1/configuring-gcp-cloud-network/
+* https://avinetworks.com/docs/22.1/avi-vantage-in-gcp-byoip/
+* https://avinetworks.com/docs/22.1/network-load-balancer-gcp/
+* https://avinetworks.com/docs/22.1/configuring-instances-with-mutliple-interfaces-for-gcp/
+* https://avinetworks.com/docs/22.1/server-autoscaling-in-gcp/
+* https://avinetworks.com/docs/22.1/ipam-provider-gcp/
+* https://avinetworks.com/docs/22.1/cluster-vip-gcp/
+* https://avinetworks.com/docs/22.1/gcp-firewall-rules/
 * https://avinetworks.com/docs/20.1/route-aggregation-for-gcp/
 * https://avinetworks.com/docs/20.1/wildcard-vip/
 * https://avinetworks.com/docs/20.1/firewall-sandwich-topology/
+* https://avinetworks.com/docs/20.1/configuring-network-service/
 * https://avinetworks.com/docs/20.1/direct-server-return/
 * https://avinetworks.com/docs/20.1/avi-vantage-integration-with-vmware-cloud-on-aws/
 * https://avinetworks.com/docs/latest/installing-avi-vantage-for-openstack/
@@ -44,7 +56,6 @@
 * https://avinetworks.com/docs/22.1/heat-templates-no-access-openstack-cloud/
 * https://avinetworks.com/docs/22.1/avi-nuage-vsp-deployment/
 * https://avinetworks.com/docs/22.1/ecmp-openstack-contrail/
-* https://avinetworks.com/docs/20.1/configuring-gcp-cloud-network/
 * https://avinetworks.com/docs/20.1/ipv6-openstack/
 * https://avinetworks.com/docs/latest/ipv6-vmware-lsc/
 * https://avinetworks.com/docs/22.1/ipv6-bgp-peering-in-avi-vantage/
@@ -52,7 +63,6 @@
 * https://avinetworks.com/docs/22.1/how-to-share-a-single-vip-across-multiple-vs//
 * https://avinetworks.com/docs/20.1/avi-vantage-bgp-learning-and-advertisement-support/
 * https://avinetworks.com/docs/22.1/bgp-support-for-as-path/
-* https://avinetworks.com/docs/20.1/network-policy-mode-vmware-write-bgp-l3/
 * https://avinetworks.com/docs/20.1/integrating-sriov-and-vlan-with-avi-vantage-openstack-no-access-mode-in-dpdk/
 * https://avinetworks.com/docs/latest/skype-for-business-2015/
 * https://avinetworks.com/docs/latest/exchange-setup/
