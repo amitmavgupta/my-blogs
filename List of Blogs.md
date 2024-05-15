@@ -10,8 +10,8 @@
 * https://isovalent.com/blog/post/isovalent-azure-linux/
 * https://isovalent.com/blog/post/upgrade-cilium-in-azure/
 * https://isovalent.com/blog/post/cilium-eks-anywhere/
-* https://isovalent.com/blog/post/isovalent-azure-kubernetes-service/
-* https://isovalent.com/blog/post/isovalent-aks/
+* https://isovalent.com/blog/post/cilium-azure-kubernetes-service/
+* https://isovalent.com/blog/post/cilium-aks/
 * https://www.youtube.com/watch?v=TrKn0dQTOrw
 * https://www.youtube.com/watch?v=A91iQS0F9Ug
 
