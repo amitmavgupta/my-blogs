@@ -1,6 +1,7 @@
 ### Curated List of all Blogs and Videos that I have created:
 
 ## Isovalent
+* https://isovalent.com/blog/post/cilium-egress-gateway-aks/
 * https://isovalent.com/blog/post/cilium-dual-stack-aks/
 * https://isovalent.com/blog/post/cilium-private-aks-cluster/
 * https://isovalent.com/blog/post/cilium-and-azure-arc/
