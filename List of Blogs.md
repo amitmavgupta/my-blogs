@@ -17,6 +17,7 @@
 * https://www.youtube.com/watch?v=A91iQS0F9Ug
 
 ## Medium.com (Personal-Blogs)
+* https://medium.com/@amitmavgupta/cilium-installing-cilium-in-gke-with-no-kube-proxy-826e84f971b4
 * https://medium.com/@amitmavgupta/extending-a-service-using-private-link-from-azure-and-securing-it-with-ciliums-network-policy-ae3248281bbd
 * https://medium.com/@amitmavgupta/security-groups-for-pods-in-eks-cilium-and-networking-f809cf72fc31
 * https://medium.com/@amitmavgupta/cilium-support-for-eni-prefix-delegation-in-an-eks-cluster-feddf894160b
