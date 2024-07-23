@@ -1,6 +1,9 @@
 ### Curated List of all Blogs and Videos that I have created:
 
 ## Isovalent
+* https://isovalent.com/blog/post/eks-byocni-bring-your-own-cni-isovalent/
+* https://isovalent.com/blog/post/isovalent-enterprise-aws-marketplace/
+* https://isovalent.com/blog/post/cilium-multicast-cloud/
 * https://isovalent.com/blog/post/cilium-egress-gateway-aks/
 * https://isovalent.com/blog/post/cilium-dual-stack-aks/
 * https://isovalent.com/blog/post/cilium-private-aks-cluster/
