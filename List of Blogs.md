@@ -75,6 +75,4 @@
 * https://www.youtube.com/watch?v=xWyCxWEkd40 
 
 ## Prosimo.io
-* https://prosimo.io/videos/elevating-multicloud-transit-to-app-transit-with-prosimo/ 
-* https://grzdemo.grazitti.com/prosimo/tech-deepdive-prosimo-network-transit/
 * https://www.youtube.com/watch?v=pjw1Ty0Ba1s 
