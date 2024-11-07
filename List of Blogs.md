@@ -9,6 +9,8 @@
 * https://isovalent.com/blog/post/cilium-dual-stack-aks/
 * https://isovalent.com/blog/post/cilium-private-aks-cluster/
 * https://isovalent.com/blog/post/cilium-and-azure-arc/
+* https://isovalent.com/blog/post/alter-http-traffic-with-cilium-gateway-api/
+* https://isovalent.com/blog/post/cilium-egress-gateway-eks/
 * https://isovalent.com/blog/post/cilium-cluster-mesh-in-aks/
 * https://isovalent.com/blog/post/zero-trust-security-with-cilium/ 
 * https://isovalent.com/blog/post/isovalent-aws-marketplace/ 
