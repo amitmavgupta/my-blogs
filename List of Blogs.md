@@ -1,6 +1,7 @@
 ### Curated List of all Blogs and Videos that I have created:
 
 ## Isovalent
+* https://isovalent.com/blog/post/mixed-routing-mode-cluster-mesh/
 * https://isovalent.com/blog/post/tetragon-ec2-image-builder/
 * https://isovalent.com/blog/post/isovalent-rosa/
 * https://isovalent.com/blog/post/overlapping-pod-cidr-cilium-cluster-mesh/
