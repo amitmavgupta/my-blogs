@@ -22,6 +22,7 @@
 * https://isovalent.com/blog/post/cilium-eks-anywhere/
 * https://isovalent.com/blog/post/cilium-azure-kubernetes-service/
 * https://isovalent.com/blog/post/cilium-aks/
+* https://www.youtube.com/watch?v=IioLSd62h0U
 * https://www.youtube.com/watch?v=TrKn0dQTOrw
 * https://www.youtube.com/watch?v=A91iQS0F9Ug
 
