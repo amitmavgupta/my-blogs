@@ -1,5 +1,13 @@
 ### Curated List of all Blogs and Videos that I have created:
 
+## Microsoft
+* https://www.youtube.com/watch?v=IioLSd62h0U
+* https://www.youtube.com/watch?v=B3MFkLMi2UA
+
+## Events
+* https://www.youtube.com/watch?v=ioWnXvaCW7s&list=PLNN9TCnjABcb_o82VmAMRnj4etWnHzUiZ&index=9
+* https://www.youtube.com/watch?v=sY1jSrbbjTA&list=PLNN9TCnjABcb_o82VmAMRnj4etWnHzUiZ&index=10
+
 ## Isovalent
 * https://isovalent.com/blog/post/cilium-eks-anywhere/#h-nested-virtualisation-on-eks-anywhere (KubeVirt)
 * https://isovalent.com/blog/post/isovalent-rosa/#h-openshift-virtualization-on-rosa (OCP-Virt)
@@ -24,7 +32,6 @@
 * https://isovalent.com/blog/post/cilium-eks-anywhere/
 * https://isovalent.com/blog/post/cilium-azure-kubernetes-service/
 * https://isovalent.com/blog/post/cilium-aks/
-* https://www.youtube.com/watch?v=IioLSd62h0U
 * https://www.youtube.com/watch?v=TrKn0dQTOrw
 * https://www.youtube.com/watch?v=A91iQS0F9Ug
 
