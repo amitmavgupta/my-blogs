@@ -90,6 +90,3 @@
 * https://avinetworks.com/docs/20.1/integrating-sriov-and-vlan-with-avi-vantage-openstack-no-access-mode-in-dpdk/
 * https://avinetworks.com/docs/latest/skype-for-business-2015/
 * https://avinetworks.com/docs/latest/exchange-setup/
-  
-## Prosimo.io
-* https://www.youtube.com/watch?v=pjw1Ty0Ba1s 
