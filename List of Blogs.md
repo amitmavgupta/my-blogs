@@ -9,6 +9,7 @@
 * https://www.youtube.com/watch?v=sY1jSrbbjTA&list=PLNN9TCnjABcb_o82VmAMRnj4etWnHzUiZ&index=10
 
 ## Isovalent
+* https://isovalent.com/blog/post/cloud-annotations-for-gateway-api-ingress-with-cilium/
 * https://isovalent.com/blog/post/cilium-eks-anywhere/#h-nested-virtualisation-on-eks-anywhere (KubeVirt)
 * https://isovalent.com/blog/post/isovalent-rosa/#h-openshift-virtualization-on-rosa (OCP-Virt)
 * https://isovalent.com/blog/post/mixed-routing-mode-cluster-mesh/
