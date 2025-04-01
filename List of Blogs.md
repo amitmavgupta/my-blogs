@@ -5,8 +5,9 @@
 * https://www.youtube.com/watch?v=B3MFkLMi2UA
 
 ## Events
-* https://www.youtube.com/watch?v=ioWnXvaCW7s&list=PLNN9TCnjABcb_o82VmAMRnj4etWnHzUiZ&index=9
-* https://www.youtube.com/watch?v=sY1jSrbbjTA&list=PLNN9TCnjABcb_o82VmAMRnj4etWnHzUiZ&index=10
+* https://www.youtube.com/watch?v=ioWnXvaCW7s&list=PLNN9TCnjABcb_o82VmAMRnj4etWnHzUiZ&index=9 (eBPF Day India-1)
+* https://www.youtube.com/watch?v=sY1jSrbbjTA&list=PLNN9TCnjABcb_o82VmAMRnj4etWnHzUiZ&index=10 (eBPF Day India-2)
+* https://www.youtube.com/watch?v=xWyCxWEkd40 (OpenStack Summit Berlin)
 
 ## Isovalent
 * https://isovalent.com/blog/post/cloud-annotations-for-gateway-api-ingress-with-cilium/
@@ -89,7 +90,6 @@
 * https://avinetworks.com/docs/20.1/integrating-sriov-and-vlan-with-avi-vantage-openstack-no-access-mode-in-dpdk/
 * https://avinetworks.com/docs/latest/skype-for-business-2015/
 * https://avinetworks.com/docs/latest/exchange-setup/
-* https://www.youtube.com/watch?v=xWyCxWEkd40 
-
+  
 ## Prosimo.io
 * https://www.youtube.com/watch?v=pjw1Ty0Ba1s 
