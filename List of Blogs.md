@@ -17,7 +17,7 @@
 * https://isovalent.com/blog/post/tetragon-ec2-image-builder/
 * https://isovalent.com/blog/post/isovalent-rosa/
 * https://isovalent.com/blog/post/overlapping-pod-cidr-cilium-cluster-mesh/
-* https://isovalent.com/blog/post/eks-byocni-isovalent/
+* https://isovalent.com/blog/post/eks-byocni-cilium/
 * https://isovalent.com/blog/post/isovalent-enterprise-aws-marketplace/
 * https://isovalent.com/blog/post/cilium-multicast-cloud/
 * https://isovalent.com/blog/post/cilium-egress-gateway-aks/
