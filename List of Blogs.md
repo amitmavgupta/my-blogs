@@ -38,6 +38,7 @@
 * https://www.youtube.com/watch?v=A91iQS0F9Ug
 
 ## Medium.com (Personal-Blogs)
+* https://medium.com/@amitmavgupta/cilium-enhanced-networking-with-intel-82599-vi-bf7688b9615e
 * https://medium.com/@amitmavgupta/cilium-support-for-efa-drivers-in-eks-249987d043eb
 * https://medium.com/@amitmavgupta/cilium-ipv6-in-eks-e1fe7735feff
 * https://medium.com/@amitmavgupta/cilium-installing-cilium-in-gke-with-no-kube-proxy-826e84f971b4
