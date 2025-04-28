@@ -10,6 +10,7 @@
 * https://www.youtube.com/watch?v=xWyCxWEkd40 (OpenStack Summit Berlin)
 
 ## Isovalent
+* https://isovalent.com/blog/post/cilium-egress-gateway-eks/#h-how-can-you-scale-the-egress-gateway-solution (AWS Route Server and Egress GW)
 * https://isovalent.com/blog/post/cloud-annotations-for-gateway-api-ingress-with-cilium/
 * https://isovalent.com/blog/post/cilium-eks-anywhere/#h-nested-virtualisation-on-eks-anywhere (KubeVirt)
 * https://isovalent.com/blog/post/isovalent-rosa/#h-openshift-virtualization-on-rosa (OCP-Virt)
